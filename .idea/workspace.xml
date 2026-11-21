@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06bbc732-792b-46c3-886e-1a0cd1b0b4ff" name="Changes" comment="Commit television.py for step 4 of Lab 12" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "caroconn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/caroconn/python.git",
+    "accountId": "987fd50e-0584-437f-8b13-abd8ccfe54d6"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.00000328668758" />
+      <entry key="S2" value="1.1360713964000482" />
+      <entry key="S5" value="2.453935716408396" />
+      <entry key="S10" value="4.709578507283535" />
+      <entry key="S30" value="8.870179329301884" />
+      <entry key="S60" value="11.666611764424543" />
+      <entry key="M2" value="18.596884740932044" />
+      <entry key="M5" value="46.75708174586526" />
+      <entry key="M10" value="87.1432479128918" />
+      <entry key="M15" value="113.30103904627202" />
+      <entry key="M30" value="152.3721062427382" />
+      <entry key="H1" value="184.06275353052982" />
+      <entry key="H2" value="212.86020649520842" />
+      <entry key="H4" value="236.3904498040548" />
+      <entry key="D1" value="264.9149231173041" />
+      <entry key="W1" value="270.95439944889284" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848695865196921" />
+      <entry key="S2" value="1.131231556326852" />
+      <entry key="S5" value="2.4469921212850214" />
+      <entry key="S10" value="4.697797889435916" />
+      <entry key="S30" value="8.858307779087902" />
+      <entry key="S60" value="11.656481400578677" />
+      <entry key="M2" value="18.58288639436757" />
+      <entry key="M5" value="46.7276708041648" />
+      <entry key="M10" value="87.10668549779346" />
+      <entry key="M15" value="113.26650940725332" />
+      <entry key="M30" value="152.3470318284073" />
+      <entry key="H1" value="184.04709138266892" />
+      <entry key="H2" value="212.85103137786268" />
+      <entry key="H4" value="236.3853337343594" />
+      <entry key="D1" value="264.9139660060195" />
+      <entry key="W1" value="270.9542595915598" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MOHIoOQkORdNV3CVaojPwGiBhS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/chris/Downloads/python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\Downloads\python" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06bbc732-792b-46c3-886e-1a0cd1b0b4ff" name="Changes" comment="" />
+      <created>1795214617476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795214617476</updated>
+      <workItem from="1795214618478" duration="4008000" />
+      <workItem from="1795227481243" duration="1379000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit television.py for step 4 of Lab 12">
+      <option name="closed" value="true" />
+      <created>1795226478825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795226478825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit television.py for step 4 of Lab 12">
+      <option name="closed" value="true" />
+      <created>1795226986593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795226986593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit television.py for step 4 of Lab 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit television.py for step 4 of Lab 12" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1795226224486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
